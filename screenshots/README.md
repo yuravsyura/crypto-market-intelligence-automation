@@ -1,26 +1,25 @@
-# Screenshots
+## Screenshots
 
-Add screenshots here before publishing.
+### n8n Full System
 
-Recommended files:
+![n8n Full System](screenshots/n8n-full-system.png)
 
-```text
-n8n-main-workflow.png
-n8n-telegram-commands.png
-telegram-market-brief.png
-telegram-risk-alert.png
-telegram-status-command.png
-telegram-risk-command.png
-telegram-report-command.png
-supabase-tables.png
-supabase-market-analytics.png
-```
+### Telegram Commands Workflow
 
-Do not include screenshots that reveal:
+![Telegram Commands Workflow](screenshots/n8n-telegram-commands.png)
 
-- API keys;
-- database passwords;
-- Telegram bot token;
-- private chat IDs;
-- webhook URLs;
-- credential IDs if you prefer to keep them private.
+### Telegram Market Brief
+
+![Telegram Market Brief](screenshots/telegram-market-brief.png)
+
+### Telegram Risk Alert
+
+![Telegram Risk Alert](screenshots/telegram-risk-alert.png)
+
+### Telegram Status Command
+
+![Telegram Status Command](screenshots/telegram-status-command.png)
+
+### Supabase Tables
+
+![Supabase Tables](screenshots/supabase-tables.png)
